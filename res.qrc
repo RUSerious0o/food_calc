@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pics/delete_icon.png</file>
+        <file>ingredients/productsDB.txt</file>
+        <file>pics/edit_icon_48.png</file>
+        <file>pics/choise_button_icon.png</file>
+        <file>pics/refresh_icon.png</file>
+        <file>pics/delete_icon_16.png</file>
+        <file>pics/icon_small.png</file>
+        <file>pics/icon_small.ico</file>
+    </qresource>
+</RCC>
